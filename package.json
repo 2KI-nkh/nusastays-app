@@ -1,0 +1,14 @@
+{
+  "name": "nusastays-app",
+  "version": "1.0.0",
+  "description": "Minimal clone of NusaStays Reel Studio with video generation using xAI Grok Imagine",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.1"
+  }
+}
